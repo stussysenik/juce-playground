@@ -1,12 +1,19 @@
-<div align="center">
+# juce-playground
 
-# Juce Playground
+Juce Playground
 
-![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=makefile&logoColor=white)
 
-</div>
+## About
+
+📚 **Learning / Exploration** built with Makefile.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
 
 ---
 
-A Makefile learning playground with experiments and exercises.
+*Built by [@stussysenik](https://github.com/stussysenik)*
